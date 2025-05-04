@@ -129,7 +129,7 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under "NOWHERE" download build improve and commit let the tribe groww.
 
 ## Acknowledgments
 - [yt_dlp](https://github.com/yt-dlp/yt-dlp) for YouTube audio downloading.
